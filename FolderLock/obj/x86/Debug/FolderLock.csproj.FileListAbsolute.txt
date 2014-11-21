@@ -1,0 +1,12 @@
+c:\users\krishna\documents\visual studio 2010\Projects\nature\FolderLock\FolderLock\bin\Debug\FolderLock.exe
+c:\users\krishna\documents\visual studio 2010\Projects\nature\FolderLock\FolderLock\bin\Debug\FolderLock.pdb
+c:\users\krishna\documents\visual studio 2010\Projects\nature\FolderLock\FolderLock\obj\x86\Debug\FolderLock.Properties.Resources.resources
+c:\users\krishna\documents\visual studio 2010\Projects\nature\FolderLock\FolderLock\obj\x86\Debug\FolderLock.csproj.GenerateResource.Cache
+c:\users\krishna\documents\visual studio 2010\Projects\nature\FolderLock\FolderLock\obj\x86\Debug\FolderLock.exe
+c:\users\krishna\documents\visual studio 2010\Projects\nature\FolderLock\FolderLock\obj\x86\Debug\FolderLock.pdb
+c:\users\krishna\documents\visual studio 2010\Projects\nature\FolderLock\FolderLock\obj\x86\Debug\FolderLock.FolderLock.resources
+C:\Users\Krishna\Documents\Visual Studio 2010\Projects\nature\FolderLock\FolderLock\bin\Debug\FolderLock.exe.manifest
+C:\Users\Krishna\Documents\Visual Studio 2010\Projects\nature\FolderLock\FolderLock\bin\Debug\FolderLock.application
+C:\Users\Krishna\Documents\Visual Studio 2010\Projects\nature\FolderLock\FolderLock\obj\x86\Debug\FolderLock.csprojResolveAssemblyReference.cache
+C:\Users\Krishna\Documents\Visual Studio 2010\Projects\nature\FolderLock\FolderLock\obj\x86\Debug\FolderLock.exe.manifest
+C:\Users\Krishna\Documents\Visual Studio 2010\Projects\nature\FolderLock\FolderLock\obj\x86\Debug\FolderLock.application

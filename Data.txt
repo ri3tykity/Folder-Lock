@@ -1,0 +1,37 @@
+        private void button2_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                string path = textBox1.Text;
+                string admin = Environment.UserName;
+                DirectorySecurity ds = Directory.GetAccessControl(path);
+                FileSystemAccessRule fsa = new FileSystemAccessRule(admin, FileSystemRights.FullControl, AccessControlType.Deny);
+                ds.AddAccessRule(fsa);
+                Directory.SetAccessControl(path, ds);
+                MessageBox.Show("Folder Lock");
+
+            }
+            catch
+            {
+                MessageBox.Show("Lock Error");
+            }
+        }
+
+		        private void button3_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                string path = textBox1.Text;
+                string admin = Environment.UserName;
+                DirectorySecurity ds = Directory.GetAccessControl(path);
+                FileSystemAccessRule fsa = new FileSystemAccessRule(admin, FileSystemRights.FullControl, AccessControlType.Deny);
+                ds.RemoveAccessRule(fsa);
+                Directory.SetAccessControl(path, ds);
+                MessageBox.Show("Folder unLock");
+
+            }
+            catch
+            {
+                MessageBox.Show("unLock Error");
+            }
+        }

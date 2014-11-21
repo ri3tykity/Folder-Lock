@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FolderLock", "FolderLock\FolderLock.csproj", "{2C51AD2D-A7C4-4BB3-8D1E-EA48A254A5AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AD652A37-52D8-404B-B22E-06D3F6267CA6}"
+	ProjectSection(SolutionItems) = preProject
+		Data.txt = Data.txt
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup(FolderLock)", "Setup(FolderLock)\Setup(FolderLock).vdproj", "{B2B6ADFB-3E98-4FB8-B3A5-F192947E13ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C51AD2D-A7C4-4BB3-8D1E-EA48A254A5AB}.Debug|x86.ActiveCfg = Debug|x86
+		{2C51AD2D-A7C4-4BB3-8D1E-EA48A254A5AB}.Debug|x86.Build.0 = Debug|x86
+		{2C51AD2D-A7C4-4BB3-8D1E-EA48A254A5AB}.Release|x86.ActiveCfg = Release|x86
+		{2C51AD2D-A7C4-4BB3-8D1E-EA48A254A5AB}.Release|x86.Build.0 = Release|x86
+		{B2B6ADFB-3E98-4FB8-B3A5-F192947E13ED}.Debug|x86.ActiveCfg = Debug
+		{B2B6ADFB-3E98-4FB8-B3A5-F192947E13ED}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
